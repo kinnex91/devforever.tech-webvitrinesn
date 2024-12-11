@@ -1,0 +1,381 @@
+{
+  
+
+  "home": {
+    "hero.highlight": "IT Solutions",
+    "hero.titleEnd": "for Tomorrow",
+    "hero.description": "Expert IT consulting services tailored to your business needs. From infrastructure management to cloud solutions, we deliver excellence in every project.",
+    "cta.services": "Explore Our Services",
+    "cta.contact": "Contact UsContact Us"
+  },
+
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "pricing": "Pricing"
+  },
+  "services": {
+    "infrastructure": {
+      "title": "Infrastructure Management",
+      "description": "Expert management of your IT infrastructure ensuring optimal performance and reliability.",
+      "features": [
+        "24/7 Infrastructure Monitoring",
+        "Performance Optimization",
+        "Security Management",
+        "Capacity Planning"
+      ],
+      "benefits": [
+        "Reduced Downtime",
+        "Enhanced Security",
+        "Cost Optimization",
+        "Scalable Solutions"
+      ],
+      "resources": [
+        "Dedicated Technical Team",
+        "Advanced Monitoring Tools",
+        "Security Frameworks",
+        "Best Practice Guidelines"
+      ],
+      "technologies": [
+        "VMware vSphere",
+        "Microsoft Hyper-V",
+        "Kubernetes",
+        "Docker"
+      ],
+      "software": [
+        "Nagios",
+        "Zabbix",
+        "SolarWinds",
+        "Prometheus"
+      ]
+    },
+    "cloud": {
+      "title": "Cloud Solutions",
+      "description": "Comprehensive cloud services to transform and scale your business operations.",
+      "features": [
+        "Cloud Migration Strategy",
+        "Multi-Cloud Management",
+        "Cloud Security",
+        "Cost Optimization"
+      ],
+      "benefits": [
+        "Improved Scalability",
+        "Reduced Infrastructure Costs",
+        "Enhanced Flexibility",
+        "Global Accessibility"
+      ],
+      "resources": [
+        "Cloud Architecture Experts",
+        "Migration Tools",
+        "Security Protocols",
+        "Cost Management Tools"
+      ],
+      "technologies": [
+        "AWS",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "OpenStack"
+      ],
+      "software": [
+        "Terraform",
+        "CloudFormation",
+        "Ansible",
+        "Puppet"
+      ]
+    },
+    "database": {
+      "title": "Database Administration",
+      "description": "Professional database management and optimization services.",
+      "features": [
+        "Performance Tuning",
+        "Backup & Recovery",
+        "High Availability Setup",
+        "Security Management"
+      ],
+      "benefits": [
+        "Optimized Performance",
+        "Data Security",
+        "Minimal Downtime",
+        "Scalable Solutions"
+      ],
+      "resources": [
+        "Database Experts",
+        "Monitoring Tools",
+        "Backup Solutions",
+        "Security Frameworks"
+      ],
+      "technologies": [
+        "Oracle",
+        "Microsoft SQL Server",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "software": [
+        "Oracle Enterprise Manager",
+        "SQL Server Management Studio",
+        "pgAdmin",
+        "MongoDB Compass"
+      ]
+    },
+    "middleware": {
+      "title": "Application Server Administration",
+      "description": "Efficient middleware solutions for seamless application performance.",
+      "features": [
+        "Server Configuration",
+        "Performance Monitoring",
+        "Load Balancing",
+        "Security Management"
+      ],
+      "benefits": [
+        "Enhanced Performance",
+        "High Availability",
+        "Scalability",
+        "Secure Operations"
+      ],
+      "resources": [
+        "Middleware Experts",
+        "Monitoring Tools",
+        "Load Testing Tools",
+        "Security Solutions"
+      ],
+      "technologies": [
+        "Apache Tomcat",
+        "JBoss/WildFly",
+        "WebSphere",
+        "WebLogic"
+      ],
+      "software": [
+        "JConsole",
+        "VisualVM",
+        "Apache JMeter",
+        "New Relic"
+      ]
+    },
+    "etl": {
+      "title": "ETL Services",
+      "description": "Robust Extract, Transform, Load services for your data needs.",
+      "features": [
+        "Data Integration",
+        "Data Transformation",
+        "Quality Assurance",
+        "Process Automation"
+      ],
+      "benefits": [
+        "Data Accuracy",
+        "Process Efficiency",
+        "Automated Workflows",
+        "Scalable Solutions"
+      ],
+      "resources": [
+        "ETL Specialists",
+        "Data Tools",
+        "Quality Frameworks",
+        "Automation Solutions"
+      ],
+      "technologies": [
+        "Apache Spark",
+        "Apache Kafka",
+        "Apache NiFi",
+        "Apache Airflow"
+      ],
+      "software": [
+        "Informatica PowerCenter",
+        "Talend",
+        "AWS Glue",
+        "Azure Data Factory"
+      ]
+    },
+    "web": {
+      "title": "Website Development",
+      "description": "Custom website solutions built with cutting-edge technologies.",
+      "features": [
+        "Custom Design",
+        "Responsive Development",
+        "SEO Optimization",
+        "Performance Tuning"
+      ],
+      "benefits": [
+        "Modern Design",
+        "Mobile Optimization",
+        "Search Visibility",
+        "Fast Loading"
+      ],
+      "resources": [
+        "Web Developers",
+        "Design Tools",
+        "SEO Tools",
+        "Performance Tools"
+      ],
+      "technologies": [
+        "React",
+        "Vue.js",
+        "Angular",
+        "Node.js"
+      ],
+      "software": [
+        "Visual Studio Code",
+        "Adobe XD",
+        "Figma",
+        "GitHub"
+      ]
+    },
+    "tma": {
+      "title": "TMA",
+      "description": "Comprehensive application maintenance and support services.",
+      "features": [
+        "Preventive Maintenance",
+        "Corrective Maintenance",
+        "Evolution Management",
+        "Support Services"
+      ],
+      "benefits": [
+        "Reduced Downtime",
+        "Cost Control",
+        "Continuous Improvement",
+        "Quick Response"
+      ],
+      "resources": [
+        "Support Team",
+        "Monitoring Tools",
+        "Ticketing System",
+        "Knowledge Base"
+      ],
+      "technologies": [
+        "ITIL Framework",
+        "DevOps",
+        "Agile Methodologies",
+        "CI/CD"
+      ],
+      "software": [
+        "Jira",
+        "ServiceNow",
+        "Jenkins",
+        "GitLab"
+      ]
+    },
+    "software": {
+      "title": "Software Development",
+      "description": "Custom software solutions using modern programming languages and frameworks.",
+      "features": [
+        "Custom Software Development",
+        "Mobile App Development",
+        "API Integration",
+        "Legacy System Modernization"
+      ],
+      "benefits": [
+        "Tailored Solutions",
+        "Cross-platform Compatibility",
+        "Scalable Architecture",
+        "Modern Technology Stack"
+      ],
+      "resources": [
+        "Senior Developers",
+        "UI/UX Designers",
+        "Quality Assurance Team",
+        "DevOps Engineers"
+      ],
+      "technologies": [
+        "Java/Spring Boot",
+        "Python/Django",
+        "JavaScript/Node.js",
+        ".NET Core"
+      ],
+      "software": [
+        "IntelliJ IDEA",
+        "Visual Studio",
+        "Docker Desktop",
+        "Kubernetes"
+      ]
+    },
+    "technology": {
+      "title": "Technology Consulting",
+      "description": "Strategic technology consulting to drive digital transformation and innovation.",
+      "features": [
+        "Digital Strategy",
+        "Technology Assessment",
+        "Architecture Design",
+        "Innovation Roadmap"
+      ],
+      "benefits": [
+        "Competitive Advantage",
+        "Risk Mitigation",
+        "Technology Optimization",
+        "Future-proof Solutions"
+      ],
+      "resources": [
+        "Technology Consultants",
+        "Solution Architects",
+        "Industry Experts",
+        "Research Team"
+      ],
+      "technologies": [
+        "AI/Machine Learning",
+        "Blockchain",
+        "IoT",
+        "Edge Computing"
+      ],
+      "software": [
+        "Enterprise Architecture Tools",
+        "Project Management Software",
+        "Collaboration Platforms",
+        "Analytics Tools"
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Empowering Digital Innovation",
+      "description": "With over 15 years of experience in IT consulting, we've helped hundreds of businesses transform their digital landscape. Our commitment to excellence and innovation drives us to deliver exceptional results for our clients."
+    },
+    "stats": {
+      "title": "Trusted by companies worldwide",
+      "description": "Our track record speaks for itself"
+    },
+    "values": {
+      "subtitle": "Our Core Values",
+      "title": "Principles that guide our work",
+      "description": "At DevForever.tech, our values shape everything we do. They're the foundation of our approach to delivering exceptional IT solutions.",
+      "innovation": "We constantly push boundaries to bring cutting-edge solutions to our clients.",
+      "collaboration": "We believe in working closely with our clients to achieve shared success.",
+      "excellence": "We maintain the highest standards in everything we do.",
+      "integrity": "We build trust through transparency and ethical practices."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "submit": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "An error occurred. Please try again."
+  },
+   "pricing": {
+    "title": "Transparent Quotation Policy",
+    "description": "Our pricing policy ensures clarity, professionalism, and mutual commitment.",
+    "calculator": {
+      "title": "Quotation Price Calculator",
+      "projectType": "Select Project Type",
+      "specPages": "Number of Specification Pages",
+      "quotePages": "Number of Quotation Pages",
+      "precisionCoef": "Precision Coefficient",
+      "hoursWorked": "Estimated Hours of Work",
+      "complexityFactor": "Complexity Factor",
+      "region": "Region",
+      "endDate": "Expected Delivery Date",
+      "workDays": "{{days}} working days",
+      "dateError": "This project requires at least {{days}} working days ({{hours}} hours of work)",
+      "hourRate": {
+        "standard": "Rate: {{currency}}{{rate}} per hour"
+      },
+      "estimatedPrice": {
+        "standard": "Standard Quote Estimation",
+        "high": "Premium Quote Estimation"
+      }
+    }
+  }
+}
+ 

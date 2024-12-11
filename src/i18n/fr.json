@@ -1,0 +1,378 @@
+{
+"home": {
+ "hero.highlight": "Solutions IT",
+  "hero.titleEnd": "de Demain",
+  "hero.description": "Services de conseil IT experts adaptés aux besoins de votre entreprise. De la gestion d'infrastructure aux solutions cloud, nous offrons l'excellence dans chaque projet.",
+  "cta.services": "Découvrez nos services",
+  "cta.contact": "Contactez-nous"
+},
+
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+     "pricing": "Tarification"
+  },
+  "services": {
+    "infrastructure": {
+      "title": "Infrastructure Management",
+      "description": "Expert management of your IT infrastructure ensuring optimal performance and reliability.",
+      "features": [
+        "24/7 Infrastructure Monitoring",
+        "Performance Optimization",
+        "Security Management",
+        "Capacity Planning"
+      ],
+      "benefits": [
+        "Reduced Downtime",
+        "Enhanced Security",
+        "Cost Optimization",
+        "Scalable Solutions"
+      ],
+      "resources": [
+        "Dedicated Technical Team",
+        "Advanced Monitoring Tools",
+        "Security Frameworks",
+        "Best Practice Guidelines"
+      ],
+      "technologies": [
+        "VMware vSphere",
+        "Microsoft Hyper-V",
+        "Kubernetes",
+        "Docker"
+      ],
+      "software": [
+        "Nagios",
+        "Zabbix",
+        "SolarWinds",
+        "Prometheus"
+      ]
+    },
+    "cloud": {
+      "title": "Cloud Solutions",
+      "description": "Comprehensive cloud services to transform and scale your business operations.",
+      "features": [
+        "Cloud Migration Strategy",
+        "Multi-Cloud Management",
+        "Cloud Security",
+        "Cost Optimization"
+      ],
+      "benefits": [
+        "Improved Scalability",
+        "Reduced Infrastructure Costs",
+        "Enhanced Flexibility",
+        "Global Accessibility"
+      ],
+      "resources": [
+        "Cloud Architecture Experts",
+        "Migration Tools",
+        "Security Protocols",
+        "Cost Management Tools"
+      ],
+      "technologies": [
+        "AWS",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "OpenStack"
+      ],
+      "software": [
+        "Terraform",
+        "CloudFormation",
+        "Ansible",
+        "Puppet"
+      ]
+    },
+    "database": {
+      "title": "Database Administration",
+      "description": "Professional database management and optimization services.",
+      "features": [
+        "Performance Tuning",
+        "Backup & Recovery",
+        "High Availability Setup",
+        "Security Management"
+      ],
+      "benefits": [
+        "Optimized Performance",
+        "Data Security",
+        "Minimal Downtime",
+        "Scalable Solutions"
+      ],
+      "resources": [
+        "Database Experts",
+        "Monitoring Tools",
+        "Backup Solutions",
+        "Security Frameworks"
+      ],
+      "technologies": [
+        "Oracle",
+        "Microsoft SQL Server",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "software": [
+        "Oracle Enterprise Manager",
+        "SQL Server Management Studio",
+        "pgAdmin",
+        "MongoDB Compass"
+      ]
+    },
+    "middleware": {
+      "title": "Application Server Administration",
+      "description": "Efficient middleware solutions for seamless application performance.",
+      "features": [
+        "Server Configuration",
+        "Performance Monitoring",
+        "Load Balancing",
+        "Security Management"
+      ],
+      "benefits": [
+        "Enhanced Performance",
+        "High Availability",
+        "Scalability",
+        "Secure Operations"
+      ],
+      "resources": [
+        "Middleware Experts",
+        "Monitoring Tools",
+        "Load Testing Tools",
+        "Security Solutions"
+      ],
+      "technologies": [
+        "Apache Tomcat",
+        "JBoss/WildFly",
+        "WebSphere",
+        "WebLogic"
+      ],
+      "software": [
+        "JConsole",
+        "VisualVM",
+        "Apache JMeter",
+        "New Relic"
+      ]
+    },
+    "etl": {
+      "title": "ETL Services",
+      "description": "Robust Extract, Transform, Load services for your data needs.",
+      "features": [
+        "Data Integration",
+        "Data Transformation",
+        "Quality Assurance",
+        "Process Automation"
+      ],
+      "benefits": [
+        "Data Accuracy",
+        "Process Efficiency",
+        "Automated Workflows",
+        "Scalable Solutions"
+      ],
+      "resources": [
+        "ETL Specialists",
+        "Data Tools",
+        "Quality Frameworks",
+        "Automation Solutions"
+      ],
+      "technologies": [
+        "Apache Spark",
+        "Apache Kafka",
+        "Apache NiFi",
+        "Apache Airflow"
+      ],
+      "software": [
+        "Informatica PowerCenter",
+        "Talend",
+        "AWS Glue",
+        "Azure Data Factory"
+      ]
+    },
+    "web": {
+      "title": "Website Development",
+      "description": "Custom website solutions built with cutting-edge technologies.",
+      "features": [
+        "Custom Design",
+        "Responsive Development",
+        "SEO Optimization",
+        "Performance Tuning"
+      ],
+      "benefits": [
+        "Modern Design",
+        "Mobile Optimization",
+        "Search Visibility",
+        "Fast Loading"
+      ],
+      "resources": [
+        "Web Developers",
+        "Design Tools",
+        "SEO Tools",
+        "Performance Tools"
+      ],
+      "technologies": [
+        "React",
+        "Vue.js",
+        "Angular",
+        "Node.js"
+      ],
+      "software": [
+        "Visual Studio Code",
+        "Adobe XD",
+        "Figma",
+        "GitHub"
+      ]
+    },
+    "tma": {
+      "title": "TMA",
+      "description": "Comprehensive application maintenance and support services.",
+      "features": [
+        "Preventive Maintenance",
+        "Corrective Maintenance",
+        "Evolution Management",
+        "Support Services"
+      ],
+      "benefits": [
+        "Reduced Downtime",
+        "Cost Control",
+        "Continuous Improvement",
+        "Quick Response"
+      ],
+      "resources": [
+        "Support Team",
+        "Monitoring Tools",
+        "Ticketing System",
+        "Knowledge Base"
+      ],
+      "technologies": [
+        "ITIL Framework",
+        "DevOps",
+        "Agile Methodologies",
+        "CI/CD"
+      ],
+      "software": [
+        "Jira",
+        "ServiceNow",
+        "Jenkins",
+        "GitLab"
+      ]
+    },
+    "software": {
+      "title": "Software Development",
+      "description": "Custom software solutions using modern programming languages and frameworks.",
+      "features": [
+        "Custom Software Development",
+        "Mobile App Development",
+        "API Integration",
+        "Legacy System Modernization"
+      ],
+      "benefits": [
+        "Tailored Solutions",
+        "Cross-platform Compatibility",
+        "Scalable Architecture",
+        "Modern Technology Stack"
+      ],
+      "resources": [
+        "Senior Developers",
+        "UI/UX Designers",
+        "Quality Assurance Team",
+        "DevOps Engineers"
+      ],
+      "technologies": [
+        "Java/Spring Boot",
+        "Python/Django",
+        "JavaScript/Node.js",
+        ".NET Core"
+      ],
+      "software": [
+        "IntelliJ IDEA",
+        "Visual Studio",
+        "Docker Desktop",
+        "Kubernetes"
+      ]
+    },
+    "technology": {
+      "title": "Technology Consulting",
+      "description": "Strategic technology consulting to drive digital transformation and innovation.",
+      "features": [
+        "Digital Strategy",
+        "Technology Assessment",
+        "Architecture Design",
+        "Innovation Roadmap"
+      ],
+      "benefits": [
+        "Competitive Advantage",
+        "Risk Mitigation",
+        "Technology Optimization",
+        "Future-proof Solutions"
+      ],
+      "resources": [
+        "Technology Consultants",
+        "Solution Architects",
+        "Industry Experts",
+        "Research Team"
+      ],
+      "technologies": [
+        "AI/Machine Learning",
+        "Blockchain",
+        "IoT",
+        "Edge Computing"
+      ],
+      "software": [
+        "Enterprise Architecture Tools",
+        "Project Management Software",
+        "Collaboration Platforms",
+        "Analytics Tools"
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Favoriser l'innovation numérique",
+      "description": "Avec plus de 15 ans d'expérience en conseil IT, nous avons aidé des centaines d'entreprises à transformer leur paysage numérique. Notre engagement envers l'excellence et l'innovation nous pousse à offrir des résultats exceptionnels à nos clients."
+    },
+    "stats": {
+      "title": "Approuvé par des entreprises du monde entier",
+      "description": "Notre bilan parle de lui-même"
+    },
+    "values": {
+      "subtitle": "Nos valeurs fondamentales",
+      "title": "Principes qui guident notre travail",
+      "description": "Chez DevForever.tech, nos valeurs façonnent tout ce que nous faisons. Elles sont la base de notre approche pour offrir des solutions IT exceptionnelles.",
+      "innovation": "Nous repoussons constamment les limites pour apporter des solutions de pointe à nos clients.",
+      "collaboration": "Nous croyons au travail étroit avec nos clients pour atteindre un succès commun.",
+      "excellence": "Nous maintenons les normes les plus élevées dans tout ce que nous faisons.",
+      "integrity": "Nous construisons la confiance grâce à la transparence et aux pratiques éthiques."
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "name": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "message": "Message",
+    "submit": "Envoyer le message",
+    "success": "Message envoyé avec succès !",
+    "error": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "pricing": {
+    "title": "Politique de devis transparente",
+    "description": "Notre politique tarifaire garantit clarté, professionnalisme et engagement mutuel.",
+    "calculator": {
+      "title": "Calculateur de prix de devis",
+      "projectType": "Sélectionnez le type de projet",
+      "specPages": "Nombre de pages de spécifications",
+      "quotePages": "Nombre de pages de devis",
+      "precisionCoef": "Coefficient de précision",
+      "hoursWorked": "Nombre estimé d'heures de travail",
+      "complexityFactor": "Facteur de complexité",
+      "region": "Région",
+      "endDate": "Date de livraison prévue",
+      "workDays": "{{days}} jours ouvrables",
+      "dateError": "Ce projet nécessite au moins {{days}} jours ouvrables ({{hours}} heures de travail)",
+      "hourRate": {
+        "standard": "Tarif : {{currency}}{{rate}} par heure"
+      },
+      "estimatedPrice": {
+        "standard": "Estimation standard du devis",
+        "high": "Estimation premium du devis"
+      }
+    }
+  }
+}
